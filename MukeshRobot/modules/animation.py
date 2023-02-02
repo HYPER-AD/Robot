@@ -325,4 +325,4 @@ __help__ = """
  ❍ /police - ᴛᴏ ᴄᴀʟʟ ᴍᴀsᴛᴇʀᴍɪɴᴅ ᴘᴏʟɪᴄᴇ
  ❍ ʙʏ ᴍᴜᴋᴇsʜ [NOOB SUPPORT](t.me/NOOBXCREATOR)
 """
-__mod_name__ = "ᴀɴɪᴍᴀᴛɪᴏɴ🛸"
+__mod_name__ = "✰ ᴀɴɪᴍᴀᴛɪᴏɴs ✰"
