@@ -24,13 +24,13 @@ Mukesh = [
     ],
     [
         InlineKeyboardButton(
-            text="➕ᴀᴅᴅ ᴍᴇ ᴇʟsᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ➕",
+            text="✰ ᴍᴀᴋᴇ ᴍᴇ ʏᴏᴜʀ ɢғ ✰",
             url=f"https://t.me/DORAROBOT?startgroup=true",
         ),
     ],
 ]
 
-lol = "https://telegra.ph/file/7773ebd713f9ba9ae71df.jpg"
+lol = "https://te.legra.ph/file/839a261e99ebf41ab3e15.jpg"
 
 
 @pbot.on_message(filters.command("alive"))
