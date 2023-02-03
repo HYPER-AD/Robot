@@ -182,7 +182,7 @@ async def get_users(show):
     os.remove("userslist.txt")
 
 
-__mod_name__ = "ᴀᴅᴠᴀɴᴄᴇ🥂"
+__mod_name__ = "✰ ᴜɴʙᴀɴ ᴀʟʟ ✰"
 __help__ = """ 
  ©️ ʙʏ ᯾ [❥︎❥︎𝐼𝑇𝑆𝑀𝐸ت︎𝑽𝑰𝑽𝑬𝑲 亗](t.me/vivekevil)
 
