@@ -62,7 +62,7 @@ async def paste_func(_, message):
     return await m.edit(link)
 
 
-__mod_name__ = "Pᴀs​ᴛᴇ💈"
+__mod_name__ = "✰ ᴘᴀs​ᴛᴇ ✰"
 __help__ = """
  Pastes the given file and shows you the result
 
