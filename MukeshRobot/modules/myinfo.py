@@ -10,13 +10,13 @@ from MukeshRobot import telethn as tgbot
 from MukeshRobot.events import register
 
 edit_time = 5
-""" =======================𝐌𝐮𝐤𝐞𝐬𝐡 𝐑𝐨𝐛𝐨𝐭====================== """
+""" =======================ᴅᴏʀᴀ ʀᴏʙᴏᴛ====================== """
 file1 = "https://telegra.ph/file/9a85d0a873e2dd80d278d.jpg"
 file2 = "https://telegra.ph/file/9e7815284031452afa9e5.jpg"
 file3 = "https://telegra.ph/file/dcc5e003287f69acea368.jpg"
 file4 = "https://telegra.ph/file/ed1ce7fee94f46b0f671e.jpg"
 file5 = "https://telegra.ph/file/701028ce085ecfa961a36.jpg"
-""" =======================𝐌𝐮𝐤𝐞𝐬𝐡 𝐑𝐨𝐛𝐨𝐭====================== """
+""" =======================ᴅᴏʀᴀ ʀᴏʙᴏᴛ====================== """
 
 
 @register(pattern="/myinfo")
@@ -78,5 +78,5 @@ async def callback_query_handler(event):
 
 
 __command_list__ = ["myinfo"]
-__mod_name__ = "ɪɴғᴏ❖"
+__mod_name__ = "✰ ɪɴғᴏ❖ ✰"
 __help__ = """ /myinfo to get your info """
