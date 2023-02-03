@@ -72,7 +72,7 @@ async def _(event):
         await event.reply("`You Should Be Admin To Do This!`")
         return
    
-__mod_name__ = "ғʙ⚡"
+__mod_name__ = "✰ ғʙ ✰"
 
 __help__ = """
 
