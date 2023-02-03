@@ -29,4 +29,4 @@ __help__ = """
  ❍ /truth *:* Sends a random truth string.
  ❍ /dare *:* Sends a random dare string.
 """
-__mod_name__ = "✰ ғᴜɴ ✰"
+__mod_name__ = "✰ ᴜsᴇғᴜʟ ✰"
