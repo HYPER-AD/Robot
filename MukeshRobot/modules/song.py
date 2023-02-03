@@ -79,6 +79,6 @@ def song(client, message):
         print(e)
 
 
-__mod_name__ = "Sᴏɴɢ"
+__mod_name__ = "✰ sᴏɴɢ ✰"
 __help__ = """ /song to download  any song
          ☻︎  or /music to download song """
