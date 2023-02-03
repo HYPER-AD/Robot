@@ -75,7 +75,7 @@ async def anitchnl(_, message):
             await ti.delete()
 
 
-__mod_name__ = "ᴀ-Cʜᴀɴɴᴇʟ♦️"
+__mod_name__ = "✰ ᴀ-ᴄʜᴀɴɴᴇʟ ✰"
 __help__ = """
 your groups to stop anonymous channels sending messages into your chats.
 **Type of messages**
