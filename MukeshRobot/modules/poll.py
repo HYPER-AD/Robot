@@ -416,4 +416,4 @@ Reply to the poll with `/stoppoll [poll-id]` to stop the poll
 """
 
 
-__mod_name__ = "ᴘᴏʟʟs✦"
+__mod_name__ = "✰ ᴘᴏʟʟs ✰"
