@@ -77,5 +77,5 @@ __help__ = """
  *Usage*: reply to text or write message with command. Example `/audio hello`
  ‣ `/slpcheck` : Check the right spelling of text
 """
-__mod_name__ = "s-ᴛᴇxᴛ🔄"
+__mod_name__ = "✰ s-ᴛᴇxᴛ ✰"
 __command_list__ = ["audio"]
