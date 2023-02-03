@@ -5,7 +5,7 @@ from pyrogram import filters
 from MukeshRobot import pbot
 from MukeshRobot.pyrogramee.errors import capture_err
 
-__mod_name__ = "Gɪᴛʜᴜʙ✳️"
+__mod_name__ = "✰ ɢɪᴛʜᴜʙ✳ ✰"
 
 __help__ = """
 I will give information about github profile 
