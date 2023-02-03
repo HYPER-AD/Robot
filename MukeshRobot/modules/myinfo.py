@@ -65,7 +65,7 @@ async def callback_query_handler(event):
     try:
         boy = event.sender_id
         PRO = await bot.get_entity(boy)
-        LILIE = "ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐌𝐚𝐬𝐭𝐞𝐫𝐦𝐢𝐧𝐝 𝐍𝐞𝐭𝐰𝐨𝐫𝐤\n\n"
+        LILIE = "ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴡᴀʀʀɪᴏʀ ɴᴇᴛᴡᴏʀᴋ\n\n"
         LILIE += f"ғɪʀsᴛ ɴᴀᴍᴇ: {PRO.first_name} \n"
         LILIE += f"ʟᴀsᴛ ɴᴀᴍᴇ: {PRO.last_name}\n"
         LILIE += f"ʏᴏᴜ ʙᴏᴛ : {PRO.bot} \n"
@@ -78,5 +78,5 @@ async def callback_query_handler(event):
 
 
 __command_list__ = ["myinfo"]
-__mod_name__ = "✰ ɪɴғᴏ❖ ✰"
+__mod_name__ = "✰ ɪɴғᴏ ✰"
 __help__ = """ /myinfo to get your info """
