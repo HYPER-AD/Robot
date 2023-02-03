@@ -279,7 +279,7 @@ async def lego(event):
         await telethn.send_file(
             event.chat_id,
             file=fname,
-            caption=f"ʟᴏɢᴏ ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ [ᴅᴏʀᴀ ʀᴏʙᴏᴛ](t.me/dorarobot)\n ᴍʏ ᴏᴡɴᴇʀ[❥︎❥︎𝐼𝑇𝑆𝑀𝐸ت︎𝑽𝑰𝑽𝑬𝑲 亗](t.me/pirokid)\n  ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ[ᴄʟɪᴄᴋ](t.me/NOOBXCREATOR)",
+            caption=f"ʟᴏɢᴏ ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ [ᴅᴏʀᴀ ʀᴏʙᴏᴛ](t.me/dorarobot)\nᴍʏ ᴏᴡɴᴇʀ[❥︎❥︎𝐼𝑇𝑆𝑀𝐸ت︎𝑽𝑰𝑽𝑬𝑲 亗](t.me/pirokid)\nᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ[ᴄʟɪᴄᴋ](t.me/NOOBXCREATOR)",
         )
         await pesan.delete()
         if os.path.exists(fname):
@@ -288,7 +288,7 @@ async def lego(event):
         await event.reply(f"ғʟᴏᴏᴅ ᴡᴀɪᴛ ᴇʀʀᴏʀ, ʀᴇᴩᴏʀᴛ ᴛʜɪs ᴀᴛ @{SUPPORT_CHAT}")
 
 
-__mod_name__ = "Lᴏɢᴏ♧︎︎​"
+__mod_name__ = "✰ ʟᴏɢᴏs ✰"
 
 __help__ = """
 @{BOT_USERNAME} can create some beautiful and attractive logo for your profile pics.
