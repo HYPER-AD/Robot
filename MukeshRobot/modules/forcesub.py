@@ -200,4 +200,4 @@ __help__ = """
 
   ❍ /fsub clear *:* To unmute all members who are muted by me for not joining the channel.
 """
-__mod_name__ = "Fᴏʀᴄᴇ-Sᴜʙ🚦"
+__mod_name__ = "✰ ғᴏʀᴄᴇ-sᴜʙ ✰"
