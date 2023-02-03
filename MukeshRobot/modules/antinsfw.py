@@ -160,7 +160,7 @@ async def nsfw_enable_disable(_, message):
         await message.reply_text("Unknown Suffix, Use /antinsfw [on/off]")
 
 
-__mod_name__ = "ᴀɴᴛɪ-ɴsғᴡ"
+__mod_name__ = "✰ ᴀɴᴛɪ-ɴsғᴡ ✰"
 __help_ = """ Use `/antinsfw [on/off]
          /nsfwscan :- Reply to an image/document/sticker/animation to scan it."
        """
