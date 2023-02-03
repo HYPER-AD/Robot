@@ -578,7 +578,7 @@ def delsticker(update, context):
         )
 
 
-__mod_name__ = "Sᴛɪᴄᴋᴇʀꜱ🎨"
+__mod_name__ = "✰ sᴛɪᴄᴋᴇʀꜱ ✰"
 
 __help__ = """
 *Help Menu For Stickers Tools*
@@ -599,7 +599,7 @@ __help__ = """
 
 ✗ /mmf - `To draw a text for sticker or pohots`
 
-*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: @mastermind_network_official !*
+*✗ Pᴏᴡᴇʀᴇᴅ Bʏ: [ɴᴏᴏʙᴄʀᴇᴀᴛᴏʀ](t.me/noobxcreator) !*
 """
 
 
