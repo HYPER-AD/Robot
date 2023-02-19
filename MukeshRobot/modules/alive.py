@@ -19,7 +19,7 @@ PHOTO = [
 
 Mukesh = [
     [
-        InlineKeyboardButton(text="ɴᴏᴏʙ", url=f"https://t.me/The_Alpha_X_help),
+        InlineKeyboardButton(text="ɴᴏᴏʙ", url=f"https://t.me/The_Alpha_X_help"),
         InlineKeyboardButton(text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
