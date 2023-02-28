@@ -599,7 +599,7 @@ __help__ = """
 
 ✗ /mmf - `To draw a text for sticker or pohots`
 
-*✗ Pᴏᴡᴇʀᴇᴅ Bʏ: [ɴᴏᴏʙᴄʀᴇᴀᴛᴏʀ](t.me/noobxcreator) !*
+*✗ Pᴏᴡᴇʀᴇᴅ Bʏ: [The Alpha](t.me/The_Alpha_X_help) !*
 """
 
 
