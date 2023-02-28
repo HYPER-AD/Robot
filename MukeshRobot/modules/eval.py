@@ -138,7 +138,7 @@ __mod_name__ = "✰ ᴇᴠᴀʟ ✰"
 __help__ = """
 ★ᴏᴡɴᴇʀ ᴄᴍᴅ ★
 
-©️ ʙʏ ᯾ [❥︎❥︎𝐼𝑇𝑆𝑀𝐸ت︎𝑽𝑰𝑽𝑬𝑲 亗](t.me/Vivekevil)
+©️ ʙʏ ᯾ [ÐJ 𓆩✘𝕯𓆪](t.me/ABOUT_DJ_X_D)
 
 ★ /eval :- to evaluate simple code
 ★ /ex :-  to execute code
