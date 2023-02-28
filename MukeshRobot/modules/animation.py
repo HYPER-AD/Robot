@@ -316,13 +316,13 @@ dispatcher.add_handler(CLOCKANIMATION_HANDLER)
 dispatcher.add_handler(BRAINANIMATION_HANDLER)
 
 __help__ = """
-*ғᴀᴋᴇ ᴀɴɪᴍᴀᴛɪᴏɴ ᴄᴏᴍᴍᴀɴᴅ ʙʏ ᴀᴅᴠᴇɴᴛᴜʀᴇ ʀᴏʙᴏᴛ*
+*ғᴀᴋᴇ ᴀɴɪᴍᴀᴛɪᴏɴ ᴄᴏᴍᴍᴀɴᴅ ʙʏ ᴀʟᴘʜᴀ ʀᴏʙᴏᴛ*
  ❍ /love - ᴜsᴇ ɪᴛ ɪғ ᴜ ʜᴀᴠᴇ ɢɪʀʟғʀɪᴇɴᴅ
  ❍ /hack -  ᴛᴏ ʜᴀᴄᴋ ᴀɴʏ ᴜsᴇʀ ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ
  ❍ /moon    - ᴛᴏ ᴡɪsʜ ɢɴ ᴛᴏ ᴜʀ ʟᴏᴠᴇ
  ❍ /kill  -  ᴛᴏ ᴋɪʟʟ  ᴜʀ ɢғ ᴅᴀᴅ
  ❍ /bombs -  ᴛᴏ sᴜᴄɪᴅᴇ ᴜʀsᴇʟғ
  ❍ /police - ᴛᴏ ᴄᴀʟʟ ᴍᴀsᴛᴇʀᴍɪɴᴅ ᴘᴏʟɪᴄᴇ
- ❍ ʙʏ ᴍᴜᴋᴇsʜ [NOOB SUPPORT](t.me/NOOBXCREATOR)
+ ❍ ʙʏ ᴍᴜᴋᴇsʜ [ᴛʜᴇ ᴀʟᴘʜᴀ](t.me/The_Alpha_X_help)
 """
 __mod_name__ = "✰ ᴀɴɪᴍᴀᴛɪᴏɴs ✰"
