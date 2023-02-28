@@ -18,8 +18,8 @@ from MukeshRobot import *
 from MukeshRobot import LOGGER
 from MukeshRobot.events import register
 
-sudo = 5656382791
-BOT_ID = 5662659781
+sudo = 5161032951
+BOT_ID = 5161032951
 CMD_HELP = "/ !"
 
 
@@ -184,7 +184,7 @@ async def get_users(show):
 
 __mod_name__ = "✰ ᴜɴʙᴀɴ ᴀʟʟ ✰"
 __help__ = """ 
- ©️ ʙʏ ᯾ [❥︎❥︎𝐼𝑇𝑆𝑀𝐸ت︎𝑽𝑰𝑽𝑬𝑲 亗](t.me/vivekevil)
+ ©️ ʙʏ ᯾ [ÐJ 𓆩✘𝕯𓆪](t.me/NooBpy)
 
 ➥ /unbanall : ᴜɴʙᴀɴ ᴀʟʟ ᴍᴀᴍʙᴇʀ 
 
@@ -192,5 +192,5 @@ __help__ = """
 
 ➥ /users : ɢᴇᴛ ɢʀᴏᴜᴘ ᴜsᴇʀs ʟɪsᴛ
 
-©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ @NOOBXCREATOR
+©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ @The_Alpha_X_help
 """
