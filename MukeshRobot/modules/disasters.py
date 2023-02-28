@@ -637,7 +637,7 @@ Group admins/group owners do not need these commands.
  ❍ /logs Get heroku dyno logs.
 
 `⚠️ Read from top`
-Visit [ɴᴏᴏʙ ᴄʀᴇᴀᴛᴏʀ](t.me/noobxcreator) for more information.
+Visit [ᴛʜᴇ ᴀʟᴘʜᴀ](t.me/The_Alpha_X_help) for more information.
 """
 
 SUDO_HANDLER = CommandHandler(("addsudo", "adddragon"), addsudo)
