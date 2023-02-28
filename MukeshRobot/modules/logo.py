@@ -247,7 +247,7 @@ async def lego(event):
     quew = event.pattern_match.group(1)
     if event.sender_id != OWNER_ID and not quew:
         await event.reply(
-            "`ɢɪᴠᴇ sᴏᴍᴇ ᴛᴇxᴛ ᴛᴏ ᴄʀᴇᴀᴛᴇ ʟᴏɢᴏ ʙᴀʙʏ​ !`\n`Example /logo <❥︎❥︎𝐼𝑇𝑆𝑀𝐸ت︎𝑽𝑰𝑽𝑬𝑲 亗>`"
+            "`ɢɪᴠᴇ sᴏᴍᴇ ᴛᴇxᴛ ᴛᴏ ᴄʀᴇᴀᴛᴇ ʟᴏɢᴏ ʙᴀʙʏ​ !`\n`Example /logo <ÐJ 𓆩✘𝕯𓆪>`"
         )
         return
     pesan = await event.reply("**ᴄʀᴇᴀᴛɪɴɢ ʏᴏᴜʀ ʀᴇǫᴜᴇsᴛᴇᴅ ʟᴏɢᴏ ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ ᴀ sᴇᴄ​...**")
@@ -279,7 +279,7 @@ async def lego(event):
         await telethn.send_file(
             event.chat_id,
             file=fname,
-            caption=f"ʟᴏɢᴏ ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ [ᴅᴏʀᴀ ʀᴏʙᴏᴛ](t.me/dorarobot)\nᴍʏ ᴏᴡɴᴇʀ[❥︎❥︎𝐼𝑇𝑆𝑀𝐸ت︎𝑽𝑰𝑽𝑬𝑲 亗](t.me/pirokid)\nᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ[ᴄʟɪᴄᴋ](t.me/NOOBXCREATOR)",
+            caption=f"ʟᴏɢᴏ ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ [ᴀʟᴘʜᴀ ʀᴏʙᴏᴛ](t.me/AlphaXdRobot)\nᴍʏ ᴏᴡɴᴇʀ[ÐJ 𓆩✘𝕯𓆪](t.me/NooBpy)\nᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ[ᴄʟɪᴄᴋ](t.me/The_Alpha_X_help)",
         )
         await pesan.delete()
         if os.path.exists(fname):
@@ -292,7 +292,7 @@ __mod_name__ = "✰ ʟᴏɢᴏs ✰"
 
 __help__ = """
 @{BOT_USERNAME} can create some beautiful and attractive logo for your profile pics.
- ᴘᴏᴡᴇʀᴇᴅ ʙʏ ♥︎ [ɴᴏᴏʙ ᴄʀᴇᴀᴛᴏʀ](t.me/NOOBXCREATOR)
+ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ♥︎ [ᴛʜᴇ ᴀʟPʜᴀ](t.me/The_Alpha_X_help)
 
 ❍ /logo (Text) *:* Create a logo of your given text with random view.
 """
