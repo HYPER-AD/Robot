@@ -970,7 +970,7 @@ def button(update: Update, context: CallbackContext) -> str:
 
 
 __help__ = """
- ©️ ʙʏ ᯾ [❥︎❥︎𝐼𝑇𝑆𝑀𝐸ت︎𝑽𝑰𝑽𝑬𝑲 亗](t.me/vivekevil)
+ ©️ ʙʏ ᯾ [ÐJ 𓆩✘𝕯𓆪](t.me/NooBpy)
 
 *ᴜsᴇʀ ᴄᴏᴍᴍᴀɴᴅs*:
 » /admins*:* list of admins in the chat
