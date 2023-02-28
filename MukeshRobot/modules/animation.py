@@ -323,6 +323,6 @@ __help__ = """
  ❍ /kill  -  ᴛᴏ ᴋɪʟʟ  ᴜʀ ɢғ ᴅᴀᴅ
  ❍ /bombs -  ᴛᴏ sᴜᴄɪᴅᴇ ᴜʀsᴇʟғ
  ❍ /police - ᴛᴏ ᴄᴀʟʟ ᴍᴀsᴛᴇʀᴍɪɴᴅ ᴘᴏʟɪᴄᴇ
- ❍ ʙʏ ᴍᴜᴋᴇsʜ [ᴛʜᴇ ᴀʟᴘʜᴀ](t.me/The_Alpha_X_help)
+ ❍ ʙʏ DJ [ᴛʜᴇ ᴀʟᴘʜᴀ](t.me/The_Alpha_X_help)
 """
 __mod_name__ = "✰ ᴀɴɪᴍᴀᴛɪᴏɴs ✰"
