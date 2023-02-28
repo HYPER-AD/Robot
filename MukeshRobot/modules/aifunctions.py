@@ -28,7 +28,7 @@ async def hmm(event):
     lodu = response.json()
     result = lodu["message"]["text"]
     if "no no" in result:
-        pro = "I am fairly found and I was made by [❥︎❥︎𝐼𝑇𝑆𝑀𝐸ت︎𝑽𝑰𝑽𝑬𝑲 亗](t.me/vivekevil)."
+        pro = "I am fairly found and I was made by [ÐJ 𓆩✘𝕯𓆪](t.me/ABOUT_DJ_X_D)."
         try:
             async with telethn.action(event.chat_id, "typing"):
                 await asyncio.sleep(2)
@@ -36,7 +36,7 @@ async def hmm(event):
         except CFError as e:
             print(e)
     elif "ann" in result:
-        pro = "My name is ᴠɪᴠᴇᴋ"
+        pro = "My name is DJ"
         try:
             async with telethn.action(event.chat_id, "typing"):
                 await asyncio.sleep(2)
