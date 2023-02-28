@@ -9,7 +9,7 @@ from telethon import __version__ as s
 from MukeshRobot import OWNER_USERNAME, dispatcher
 from MukeshRobot import pbot as client
 
-Mukesh = "https://te.legra.ph/file/ed51293271f2d67b56783.jpg"
+Mukesh = "https://te.legra.ph/file/a655a747dd2b8fc5cfd47.jpg"
 
 
 @client.on_message(filters.command(["repo", "source"]))
@@ -18,13 +18,13 @@ async def repo(client, message):
         photo=Mukesh,
         caption=f"""**ʜᴇʏ​ {message.from_user.mention()},\n\nɪ ᴀᴍ [{dispatcher.bot.first_name}](t.me/{dispatcher.bot.username})**
 
-**» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ :** [❥︎❥︎𝐼𝑇𝑆𝑀𝐸ت︎𝑽𝑰𝑽𝑬𝑲 亗](tg://user?id=5656382791)🥀
+**» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ :** [ÐJ 𓆩✘𝕯𓆪](tg://user?id=5161032951)🥀
 **» ᴩʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{y()}`
 **» ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{o}` 
 **» ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{s}` 
 **» ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{z}`
 
-**ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴅᴏʀᴀ ʀᴏʙᴏᴛ ʀᴇᴘᴏ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ - [ᴘɪʀᴏᴋɪᴅ](t.me/pirokid).**
+**ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴀʟᴘʜᴀ ʀᴏʙᴏᴛ ʀᴇᴘᴏ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ - [ᴅᴊ](t.me/NooBpy).**
 """,
         reply_markup=InlineKeyboardMarkup(
             [
@@ -34,7 +34,7 @@ async def repo(client, message):
                     ),
                     InlineKeyboardButton(
                         "✰ ʀᴇᴘᴏ ✰",
-                        url="https://t.me/vivekevil",
+                        url="https://te.legra.ph/file/805b5bd70b632c1d100ee.jpg",
                     ),
                 ]
             ]
