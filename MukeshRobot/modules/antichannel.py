@@ -91,5 +91,5 @@ your groups to stop anonymous channels sending messages into your chats.
 
  - /antichannel [on / off] - Anti- channel  function 
 **Note** : If linked channel  send any containing characters in this type when on  function no del   
- 🚩ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [ɴᴏᴏʙ sᴜᴘᴘᴏʀᴛ](t.me/noobcreator)
+ 🚩ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [The Alpha](t.me/The_Alpha_X_help)
  """
