@@ -84,11 +84,11 @@ PM_START_TEXT = """
 *ʜᴇʏ* {}, [🥀 ](https://te.legra.ph/file/1ddb6b196f2b303b2e0b6.jpg)
 
 *๏ ᴛʜɪs ɪs* {} !
-*➻ ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴀɴᴅ ᴍᴜsɪᴄ ʙᴏᴛ.*
+*➻ ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴀɴᴅ ᴍᴜsɪᴄ ʙᴏᴛ ⚡.*
 
 *➻ ɪ ʜᴀᴠᴇ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs ᴛʜᴀᴛ ɴᴏ ᴏɴᴇ ᴄᴀɴ ʙᴇᴀᴛ ᴍᴇ.*
 
-*➻ ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ ʙᴀʙʏ.*
+*➻ ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ ʙᴀʙʏ✨.*
 ──────────────────
 *๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴇʟᴩ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴍᴏᴅᴜʟᴇs ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs.*
 """
@@ -96,20 +96,20 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="✰ ᴄʟɪᴄᴋ ᴛᴏ ᴍᴀᴋᴇ ᴍᴇ ʏᴏᴜʀ ɢғ ✰",
+            text="❣️ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ❣️",
             url=f"https://t.me/{dispatcher.bot.username}?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="✰ ʜᴇʟᴘs & ᴄᴏᴍᴍᴀɴᴅs ✰", callback_data="help_back"),
+        InlineKeyboardButton(text="⚡ʜᴇʟᴘs & ᴄᴏᴍᴍᴀɴᴅs⚡", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="✰ ᴍʏ ɪɴғᴏ ✰", callback_data="mukesh_"),
-        InlineKeyboardButton(text="✰ ᴏᴜʀ ɴᴇᴛᴡᴏʀᴋ ✰", url=f"https://t.me/Alpha_X_supports"),
+        InlineKeyboardButton(text="🏡 ᴍʏ ɪɴғᴏ 🏡", callback_data="mukesh_"),
+        InlineKeyboardButton(text="✨ sᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/Alpha_X_supports"),
     ],
     [
-        InlineKeyboardButton(text="✰ ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✰", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="✰ ᴍᴜsɪᴄ ✰", callback_data="Music_"),
+        InlineKeyboardButton(text="🌹 ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ 🌹", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="🎙 ᴍᴜsɪᴄ 🎙", callback_data="Music_"),
     ],
 ]
 
@@ -119,7 +119,7 @@ HELP_STRINGS = f"""
 ➲ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴏғ ᴀʟᴘʜᴀ ɪs ʜᴇʀᴇ sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴀɴᴅ sᴇᴇ
   ‣ ɪɴ ᴘᴍ : ᴡɪʟʟ ꜱᴇɴᴅ ʏᴏᴜ ʜᴇʟᴘ​ ꜰᴏʀ ᴀʟʟ ꜱᴜᴘᴘᴏʀᴛᴇᴅ ᴍᴏᴅᴜʟᴇꜱ.
   ‣ ɪɴ ɢʀᴏᴜᴘ : ᴡɪʟʟ ʀᴇᴅɪʀᴇᴄᴛ ʏᴏᴜ ᴛᴏ ᴘᴍ, ᴡɪᴛʜ ᴀʟʟ ᴛʜᴀᴛ ʜᴇʟᴘ​ ᴍᴏᴅᴜʟᴇꜱ. 
-  ➪ ᴀʟᴘʜᴀ ᴏᴡɴᴇᴅ ᴀɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ [DJ](https://t.me/NooBpy) . """
+  ➪ ᴀʟᴘʜᴀ ᴏᴡɴᴇᴅ ᴀɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ [𝐃𝐉](https://t.me/NooBpy) . """
 
 DONATE_STRING = """ʜᴇʏ ʙᴀʙʏ,
   ʜᴀᴩᴩʏ ᴛᴏ ʜᴇᴀʀ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴɴᴀ ᴅᴏɴᴀᴛᴇ.
@@ -229,6 +229,23 @@ def start(update: Update, context: CallbackContext):
 
         else:
             first_name = update.effective_user.first_name
+            
+            x=update.effective_message.reply_sticker(
+                "CAACAgUAAx0CbtsCLgABAX_CZB03w-w4ZVP-7nFOJbbGTB7kiNYAAmMIAAKYqkFVOGKruMo6MXYvBA")
+            x.delete()
+            usr = update.effective_user
+            lol = update.effective_message.reply_text(
+                PM_START_TEX.format(usr.first_name), parse_mode=ParseMode.MARKDOWN
+            )
+            time.sleep(0.4)
+            lol.edit_text("❤")
+            time.sleep(0.5)
+            lol.edit_text("⚡")
+            time.sleep(0.3)
+            lol.edit_text("ꜱᴛᴀʀᴛɪɴɢ... ")
+            time.sleep(0.4)
+            lol.delete()
+            
             update.effective_message.reply_text(
                 PM_START_TEXT.format(escape_markdown(first_name), BOT_NAME),
                 reply_markup=InlineKeyboardMarkup(buttons),
@@ -395,23 +412,23 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="✰ sᴜᴩᴩᴏʀᴛ ✰", callback_data="mukesh_support"
+                            text="🥀 sᴜᴩᴩᴏʀᴛ 🥀", callback_data="mukesh_support"
                         ),
                         InlineKeyboardButton(
-                            text="✰ ᴄᴏᴍᴍᴀɴᴅs ✰", callback_data="help_back"
+                            text="⚡ ᴄᴏᴍᴍᴀɴᴅs ⚡", callback_data="help_back"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="✰ ᴅᴇᴠᴇʟᴏᴩᴇʀ ✰", url=f"https://t.me/{OWNER_USERNAME}"
+                            text="🌹 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🌹", url=f"https://t.me/{OWNER_USERNAME}"
                         ),
                         InlineKeyboardButton(
-                            text="✰ sᴏᴜʀᴄᴇ ✰",
+                            text="👨‍💻 sᴏᴜʀᴄᴇ 👨‍💻",
                             url="https://t.me/NooBpy",
                         ),
                     ],
                     [
-                        InlineKeyboardButton(text="✰ ʙᴀᴄᴋ ✰", callback_data="mukesh_back"),
+                        InlineKeyboardButton(text="👉 ʙᴀᴄᴋ 👈", callback_data="mukesh_back"),
                     ],
                 ]
             ),
@@ -425,22 +442,22 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="✰ sᴜᴩᴩᴏʀᴛ ✰", url=f"https://t.me/{SUPPORT_CHAT}"
+                            text="🥀 sᴜᴩᴩᴏʀᴛ 🥀", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="✰ ᴜᴩᴅᴀᴛᴇs ✰", url=f"https://t.me/The_Alpha_X_help"
+                            text="✨ ᴜᴩᴅᴀᴛᴇs ✨", url=f"https://t.me/The_Alpha_X_help"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="✰ ᴅᴇᴠᴇʟᴏᴩᴇʀ ✰", url="https://t.me/Noobpy"
+                            text="🌹 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🌹", url="https://t.me/Noobpy"
                         ),
                         InlineKeyboardButton(
-                            text="✰ ɢɪᴛʜᴜʙ ✰", url="https://te.legra.ph/file/b6b176848aba2019732ac.jpg"
+                            text="💫 ɢɪᴛʜᴜʙ 💫", url="https://te.legra.ph/file/b6b176848aba2019732ac.jpg"
                         ),
                     ],
                     [
-                        InlineKeyboardButton(text="✰ ʙᴀᴄᴋ ✰", callback_data="mukesh_"),
+                        InlineKeyboardButton(text="👉 ʙᴀᴄᴋ 👈", callback_data="mukesh_"),
                     ],
                 ]
             ),
@@ -470,21 +487,21 @@ def Music_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="✰ ᴀᴅᴍɪɴ ✰", callback_data="Music_admin"
+                            text="💞 ᴀᴅᴍɪɴ 💞", callback_data="Music_admin"
                         ),
                         InlineKeyboardButton(
-                            text="✰ ᴘʟᴀʏ ✰", callback_data="Music_play"
+                            text="▶ ᴘʟᴀʏ ▶", callback_data="Music_play"
                         ),
                     ],
                     [
                         InlineKeyboardButton(text="✰ ʙᴏᴛ ✰", callback_data="Music_bot"),
                         InlineKeyboardButton(
-                            text="✰ ᴇxᴛʀᴀ ✰",
+                            text="🧨 ᴇxᴛʀᴀ 🧨",
                             callback_data="Music_extra",
                         ),
                     ],
                     [
-                        InlineKeyboardButton(text="✰ ʙᴀᴄᴋ ✰", callback_data="mukesh_back"),
+                        InlineKeyboardButton(text="👉 ʙᴀᴄᴋ 👈", callback_data="mukesh_back"),
                     ],
                 ]
             ),
@@ -512,7 +529,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="✰ ʙᴀᴄᴋ ✰", callback_data="Music_"),
+                        InlineKeyboardButton(text="👉 ʙᴀᴄᴋ 👈", callback_data="Music_"),
                     ]
                 ]
             ),
@@ -539,7 +556,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="✰ ʙᴀᴄᴋ ✰", callback_data="Music_"),
+                        InlineKeyboardButton(text="👉 ʙᴀᴄᴋ 👈", callback_data="Music_"),
                     ]
                 ]
             ),
@@ -567,7 +584,7 @@ c ꜱᴛᴀɴᴅꜱ ꜰᴏʀ ᴄʜᴀɴɴᴇʟ ᴘʟᴀʏ.
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="✰ ʙᴀᴄᴋ ✰", callback_data="Music_"),
+                        InlineKeyboardButton(text="👉 ʙᴀᴄᴋ 👈", callback_data="Music_"),
                     ]
                 ]
             ),
@@ -588,7 +605,7 @@ c ꜱᴛᴀɴᴅꜱ ꜰᴏʀ ᴄʜᴀɴɴᴇʟ ᴘʟᴀʏ.
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="✰ ʙᴀᴄᴋ ✰", callback_data="Music_"),
+                        InlineKeyboardButton(text="👉 ʙᴀᴄᴋ 👈", callback_data="Music_"),
                     ]
                 ]
             ),
@@ -619,7 +636,7 @@ def get_help(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="✰ ʜᴇʟᴘ ✰",
+                                text="🔱 ʜᴇʟᴘ 🔱",
                                 url="t.me/{}?start=ghelp_{}".format(
                                     context.bot.username, module
                                 ),
@@ -635,7 +652,7 @@ def get_help(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="✰ ᴏᴩᴇɴ ɪɴ ᴩʀɪᴠᴀᴛᴇ ✰",
+                            text=" ᴏᴩᴇɴ ɪɴ ᴩʀɪᴠᴀᴛᴇ 👉",
                             url="https://t.me/{}?start=help".format(
                                 context.bot.username
                             ),
@@ -643,7 +660,7 @@ def get_help(update: Update, context: CallbackContext):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="✰ ᴏᴩᴇɴ ʜᴇʀᴇ ✰",
+                            text="👇 ᴏᴩᴇɴ ʜᴇʀᴇ 👇",
                             callback_data="help_back",
                         )
                     ],
@@ -664,7 +681,7 @@ def get_help(update: Update, context: CallbackContext):
             chat.id,
             text,
             InlineKeyboardMarkup(
-                [[InlineKeyboardButton(text="✰ ʙᴀᴄᴋ ✰", callback_data="help_back")]]
+                [[InlineKeyboardButton(text="👉 ʙᴀᴄᴋ 👈", callback_data="help_back")]]
             ),
         )
 
@@ -737,7 +754,7 @@ def settings_button(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="✰ ʙᴀᴄᴋ ✰",
+                                text="👉 ʙᴀᴄᴋ 👈",
                                 callback_data="stngs_back({})".format(chat_id),
                             )
                         ]
