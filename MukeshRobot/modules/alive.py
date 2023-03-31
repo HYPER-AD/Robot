@@ -24,7 +24,7 @@ Mukesh = [
     ],
     [
         InlineKeyboardButton(
-            text="✰ ᴍᴀᴋᴇ ᴍᴇ ʏᴏᴜʀ ɢғ ✰",
+            text="✰ ᴍᴀᴋᴇ ᴍᴇ ʏᴏᴜʀ ✰",
             url=f"https://t.me/AlphaXdRobot?startgroup=true",
         ),
     ],
