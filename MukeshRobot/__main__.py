@@ -1,5 +1,6 @@
 import importlib
 import re
+import time
 from asyncio import sleep as sleep
 from platform import python_version as y
 from sys import argv
@@ -229,8 +230,7 @@ def start(update: Update, context: CallbackContext):
                 IMPORTED["rules"].send_rules(update, args[0], from_pm=True)
 
         else:        
-            update.effective_message.reply_sticker(
-                "CAACAgUAAx0CbtsCLgABAX_CZB03w-w4ZVP-7nFOJbbGTB7kiNYAAmMIAAKYqkFVOGKruMo6MXYvBA") 
+            update.effective_message.reply_sticker("CAACAgUAAx0CbtsCLgABAX_CZB03w-w4ZVP-7nFOJbbGTB7kiNYAAmMIAAKYqkFVOGKruMo6MXYvBA") 
             lol = update.effective_message.reply_text("❤")
             sleep(0.4)
             lol.edit_text("⚡")
@@ -238,7 +238,6 @@ def start(update: Update, context: CallbackContext):
             lol.edit_text("ꜱᴛᴀʀᴛɪɴɢ... ")
             sleep(0.4)
             lol.delete()
-            
             update.effective_message.reply_text(
                 PM_START_TEXT.format(usr.first_name, BOT_NAME),
                 reply_markup=InlineKeyboardMarkup(buttons),
