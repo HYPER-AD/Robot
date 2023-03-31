@@ -30,7 +30,7 @@ Mukesh = [
     ],
 ]
 
-lol = "https://te.legra.ph/file/97bf2456c8a187e113643.jpg"
+lol = "https://te.legra.ph/file/fcd0011f39b29c72eaa84.jpg"
 
 
 @pbot.on_message(filters.command("alive"))
@@ -48,7 +48,7 @@ async def restart(client, m: Message):
     await accha.delete()
     await asyncio.sleep(0.5)
     umm = await m.reply_sticker(
-        "CAACAgUAAxkDAAJHbmLuy2NEfrfh6lZSohacEGrVjd5wAAIOBAACl42QVKnra4sdzC_uKQQ"
+        "CAACAgUAAx0CbYfuHwACEiRkJrDz8W5UQKtnSLfzsUJnDJb0EQACJQYAAuC7QFVmzFVyAAHpHqcvBA"
     )
     await umm.delete()
     await asyncio.sleep(2)
