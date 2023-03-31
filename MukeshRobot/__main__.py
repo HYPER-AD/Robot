@@ -1,6 +1,6 @@
 import importlib
 import re
-import time
+from asyncio import sleep as sleep
 from platform import python_version as y
 from sys import argv
 from typing import Optional
@@ -197,6 +197,7 @@ def test(update: Update, context: CallbackContext):
 
 @run_async
 def start(update: Update, context: CallbackContext):
+    usr = update.effective_user
     args = context.args
     uptime = get_readable_time((time.time() - StartTime))
     if update.effective_chat.type == "private":
@@ -227,27 +228,19 @@ def start(update: Update, context: CallbackContext):
             elif args[0][1:].isdigit() and "rules" in IMPORTED:
                 IMPORTED["rules"].send_rules(update, args[0], from_pm=True)
 
-        else:
-            first_name = update.effective_user.first_name
-            
-            x=update.effective_message.reply_sticker(
-                "CAACAgUAAx0CbtsCLgABAX_CZB03w-w4ZVP-7nFOJbbGTB7kiNYAAmMIAAKYqkFVOGKruMo6MXYvBA")
-            x.delete()
-            usr = update.effective_user
-            lol = update.effective_message.reply_text(
-                PM_START_TEX.format(usr.first_name), parse_mode=ParseMode.MARKDOWN
-            )
-            time.sleep(0.4)
-            lol.edit_text("❤")
-            time.sleep(0.5)
+        else:        
+            update.effective_message.reply_sticker(
+                "CAACAgUAAx0CbtsCLgABAX_CZB03w-w4ZVP-7nFOJbbGTB7kiNYAAmMIAAKYqkFVOGKruMo6MXYvBA") 
+            lol = update.effective_message.reply_text("❤")
+            sleep(0.4)
             lol.edit_text("⚡")
-            time.sleep(0.3)
+            sleep(0.3)
             lol.edit_text("ꜱᴛᴀʀᴛɪɴɢ... ")
-            time.sleep(0.4)
+            sleep(0.4)
             lol.delete()
             
             update.effective_message.reply_text(
-                PM_START_TEXT.format(escape_markdown(first_name), BOT_NAME),
+                PM_START_TEXT.format(usr.first_name, BOT_NAME),
                 reply_markup=InlineKeyboardMarkup(buttons),
                 parse_mode=ParseMode.MARKDOWN,
                 timeout=60,
